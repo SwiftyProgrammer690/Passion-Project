@@ -9,5 +9,6 @@ blog({
     { title: "Email", url: "mailto:swaritchoudhari.p.s.y@gmail.com" },
     { title: "GitHub", url: "https://github.com/SwiftyProgrammer690" },
   ],
-  background: "#fff"
+  background: "#fff",
+  favicon: "favicon.ico",
 });
