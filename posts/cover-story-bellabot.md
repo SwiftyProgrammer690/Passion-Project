@@ -14,3 +14,9 @@ Bellabot was made for restaraunts that specialize in asian foods such as dumplin
 Robots and AI are constantly improved with the time progressing. According to [The Motley Fool's post](https://www.fool.com/research/which-jobs-automated-10-years/), it states that, "*The government agency reasons that automation or other efficiency gains through technology will contribute to employment declines in 19 out of the 30 occupations it estimates will have the largest decline in employment over the next decade.*", that is equivalent to "*a decrease about the size of Atlanta's population*".
 
 That sums up todays cover story! Read more of the presentation on how to secure a career! And, keep ***your*** job safe!
+
+```
+Citations -
+CNN 10: The big stories of the day, explained in 10 minutes. (2022, October 19). [Video]. CNN. https://edition.cnn.com/videos/cnn10/2022/10/19/ten-1020orig.cnn
+Caporal, J. (2022, January 4). Which Jobs Will Be Automated in the Next 10 Years? The Motley Fool. https://www.fool.com/research/which-jobs-automated-10-years/
+```
