@@ -1,6 +1,6 @@
 ---
 title: The Cover Story, BellaBot
-publish_date: 2022-07-26
+publish_date: 2022-10-23
 ---
 
 So, Robots have come to the point where they are stealing manual and *expressive* jobs such as a restuaraunt waiter. The robot, "*BellaBot*" made by [Pudu](https://www.pudurobotics.com/product/detail/bellabot)
